@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Trabalho DM114</string>
+    <string name="app_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Endereço de email inválido</string>
+    <string name="error_invalid_password">Senha muito curta</string>
+    <string name="error_incorrect_password">Senha incorreta</string>
+    <string name="error_field_required">Campo obrigatório</string>
+    <string name="login_error">Falha ao realizar o login</string>
+
+    <string name="title_activity_main">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Configurações</string>
+    <string name="pref_user_login">pref_user_login</string>
+    <string name="pref_user_password">pref_user_password</string>
+    <string name="pref_user_cpf">pref_user_cpf</string>
+
+    <string name="pref_user_email">pref_user_email</string>
+
+    <string name="cpf">CPF</string>
+    <string name="cpf_para_logar_no_provedor_de_vendas">CPF para logar no provedor de vendas</string>
+    <string name="login">Login</string>
+    <string name="login_do_provedor_de_vendas">Login do provedor de vendas</string>
+    <string name="password">Password</string>
+
+    <string name="password_para_logar_no_provedor_de_vendas">Password para logar no provedor de vendas</string>
+    <string name="pref_ws_host">pref_ws_host</string>
+    <string name="pref_ws_port">pref_ws_port</string>
+
+
+    <string name="pref_ws_sales_provider_access_token">pref_ws_sales_provider_access_token</string>
+    <string name="pref_ws_sales_provider_access_token_expiration">pref_ws_sales_provider_access_token_expiration</string>
+
+    <string name="pref_ws_admin_message_provider_access_token">pref_ws_admin_message_provider_access_token</string>
+    <string name="pref_ws_admin_message_provider_access_token_expiration">pref_ws_admin_message_provider_access_token_expiration</string>
+
+    <string name="pref_ws_user_message_provider_access_token">pref_ws_user_message_provider_access_token</string>
+    <string name="pref_ws_user_message_provider_access_token_expiration">pref_ws_user_message_provider_access_token_expiration</string>
+
+
+    <string name="pref_ws_sales_provider_host">pcs-dm106-exemplo3b.azurewebsites.net</string>
+    <string name="pref_ws_message_provider_host">pcs2-exemplooauth.appspot.com</string>
+
+    <string name="pref_ws_default_port">80</string>
+    <string name="pref_host_address">Address</string>
+    <string name="pref_host_port">Port</string>
+
+    <string name="pref_ws_admin_username">admin@siecola.com</string>
+    <string name="pref_ws_user_username">p_vilela@outlook.com</string>
+
+    <string name="pref_ws_admin_password">Admin#7</string>
+    <string name="pref_ws_user_password">Admin#7</string>
+
+
+</resources>

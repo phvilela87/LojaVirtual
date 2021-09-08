@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_register_new_product"
+            android:icon="@drawable/ic_add_circle_black_24dp"
+            android:title="Cadastrar Produto" />
+        <item
+            android:id="@+id/nav_list_orders"
+            android:icon="@drawable/ic_view_list_black_24dp"
+            android:title="Ver Pedidos" />
+        <item
+            android:id="@+id/nav_list_products"
+            android:icon="@drawable/ic_view_list_black_24dp"
+            android:title="Ver Produtos" />
+        <item
+            android:id="@+id/nav_product_manager"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Gerenciar Produtos" />
+        <item
+            android:id="@+id/nav_gcm"
+            android:icon="@drawable/ic_cloud_black_24dp"
+            android:title="GCM" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_cancel_black_24dp"
+            android:title="Sair" />
+    </group>
+
+</menu>
